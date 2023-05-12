@@ -1,5 +1,5 @@
 # Landing Page - Treinamento
-Página responsiva feita durante um treinamento das tecnologias HTML5 e CSS3.
+Landing-Page made to train item positioning with FlexBox.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
