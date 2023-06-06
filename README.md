@@ -1,4 +1,4 @@
-# Landing Page - Treinamento
+# Landing Page
 Responsive landing-page using FlexBox for positioning elements.
 
 <h2>Tecnologias Utilizadas:</h2>
